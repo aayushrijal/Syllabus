@@ -1,0 +1,8 @@
+function showSyllabus() {
+	if(document.getElementByClassName("subjectSyllabus").style.display == "block") {
+			document.getElementByClassName("subjectSyllabus").style.display = "none";
+	}
+	else {
+		document.getElementByClassName("subjectSyllabus").style.display = "block";
+	}		
+}

@@ -1,0 +1,27 @@
+body{
+	background-color: #344;
+}
+
+#topLine{
+	border-color: #ff4700;
+	-moz-border-color: #ff4700;
+	background-color: #ff4700;
+	height: 1px;
+	width: auto;
+}
+#subjectName{
+	color: #fff;
+	font-family: arial;
+	font-size: 15px;
+	font-weight: bold;
+	cursor: pointer;
+	padding-top: 10px; 
+}
+#subjectSyllabus{
+	color: #fff;
+	font-family: arial;
+	font-size: 15px;
+	padding-top: 7px;
+/*	display: none;*/
+}
+
